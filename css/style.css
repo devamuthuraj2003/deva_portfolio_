@@ -1,0 +1,50 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.banner
+{
+    background-image: url(/img/slider.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 115px 0;
+}
+.my_img img
+{
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border: 2px solid steelblue;
+}
+.image-container {
+    width: 200px; 
+    height: 200px; 
+    background-size: cover; 
+    background-position: center; 
+    border: 1px solid #ccc; 
+}
+.gap_row
+{
+    gap:100px;
+}
+.welcome
+{
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.welcome h1
+{
+    margin-left:80px;
+}
+.welcome h1 span{
+    color:orangered;
+}
+.deva span
+{
+    color:rgb(0, 110, 255);
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+a
+{
+    text-decoration: none;
+}
